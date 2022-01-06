@@ -26,10 +26,6 @@ THE PROJECTS | ROLES
 
    void Update()
     {
-        int x = Random.Range(0.1f, 1.0f) < 0.5f ? 1 : -1;
-        
-        CurrentPosition = PreviousPosition + new Vector3((float)x,1,0);
-
         if(CurrentPosition.x > 3) CurrentPosition.x = 3;
         if(CurrentPosition.x < -3) CurrentPosition.x = -3;
 
