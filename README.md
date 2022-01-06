@@ -24,10 +24,6 @@ THE PROJECTS | ROLES
 
 **here some of my code I have wrote in *CRAZY HOP* for instantiate the platform randomly**.
 
-   void Update()
-    {
-        if(CurrentPosition.x > 3) CurrentPosition.x = 3;
-        if(CurrentPosition.x < -3) CurrentPosition.x = -3;
 
         if(PreviousPosition.x == CurrentPosition.x)
         {
@@ -44,8 +40,6 @@ THE PROJECTS | ROLES
    
         Destroy(GameObject.Find("platform(Clone)"),8);
          
-     }
-    
 
 2. **BUCK BASH**
 
