@@ -1,8 +1,5 @@
 ## Protfolio Rehab  :bowtie: ..
 
-> HOWDY! I'm Rehab.
-> https://www.linkedin.com/in/rehabalsuliman/
-
 ###### This is page of all my work done in *GAME CHANGERS Program*. 
 ###### I have worked in muliple projects: some projects with team and, some an individual.
 
